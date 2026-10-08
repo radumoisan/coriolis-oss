@@ -3,7 +3,6 @@ Project Coriolis
 
 *Cloud Migration as a Service*
 
-
 Migrating existing workloads between clouds is a necessity for a large number
 of use cases, especially for user moving from traditional virtualization
 technologies like VMware vSphere or Microsoft System Center VMM to Azure /
